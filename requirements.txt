@@ -6,3 +6,4 @@ Pillow
 hachoir
 numpy
 ffmpeg-python
+python-3.10.13
